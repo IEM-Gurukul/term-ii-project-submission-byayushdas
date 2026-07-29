@@ -4,7 +4,7 @@
 Personal Investment Portfolio Tracker
 
 ## Problem Statement
-Individual investors managing personal portfolios across multiple asset types — stocks, mutual funds, and bonds — often rely on disconnected spreadsheets or manual tracking, which lack real-time recalculation and proactive alerts. This leads to poor visibility into actual returns and missed threshold-based decisions. The Personal Investment Portfolio Tracker addresses this by providing a structured, object-oriented system that models each investment type distinctly, calculates returns polymorphically, persists portfolio state across sessions, and notifies users when gain or loss thresholds are breached.
+Individual investors managing personal portfolios across multiple asset types — stocks, mutual funds, and bonds — often rely on disconnected spreadsheets or manual tracking, which lack real time recalculation and proactive alerts. This leads to poor visibility into actual returns and missed threshold-based decisions. The Personal Investment Portfolio Tracker addresses this by providing a structured, object-oriented system that models each investment type distinctly, calculates returns polymorphically, persists portfolio state across sessions, and notifies users when gain or loss thresholds are breached.
 
 ## Target User
 Individual retail investors, finance students, and early-career professionals who self-manage small personal investment portfolios.
